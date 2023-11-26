@@ -1,0 +1,3 @@
+echo "post install"
+
+echo "Here you could run tasks, that needs to be executed after installation e.g. checking systemd services or remove temp files"

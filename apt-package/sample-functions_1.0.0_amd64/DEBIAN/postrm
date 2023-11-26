@@ -1,0 +1,4 @@
+echo "post removal"
+
+
+echo "Here you could run tasks, that needs to be executed after removal e.g. checking systemd services or remove temp files"

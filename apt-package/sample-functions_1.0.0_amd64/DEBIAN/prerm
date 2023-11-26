@@ -1,0 +1,3 @@
+echo "pre removal"
+
+echo "Here you could run tasks, that needs to be executed prior to removal e.g. stopping systemd services."

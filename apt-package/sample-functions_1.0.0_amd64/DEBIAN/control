@@ -1,0 +1,7 @@
+Package: sample-functions
+Version: 0.0.1
+Maintainer: Markus Zarbock <this@needs-no-mail.com>
+Depends: 
+Architecture: amd64
+Homepage: https://needs-no-mail.com
+Description: Just an example APT package, that demonstrate various options to build it.

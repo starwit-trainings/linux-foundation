@@ -1,0 +1,2 @@
+echo "pre-install"
+echo "Here you could run tasks, that needs to be executed prior to installation e.g. stopping systemd services."
